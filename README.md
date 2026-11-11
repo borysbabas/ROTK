@@ -1,6 +1,6 @@
 # ROTK
 
-![Thumbnail](https://github.com/borysbabas/ROTK-school/blob/main/src/web/wwwroot/public/assets/img/rooms/ROTK.png?raw=true)
+![Thumbnail](https://github.com/borysbabas/ROTK/blob/main/src/web/wwwroot/public/assets/img/rooms/ROTK.png?raw=true)
 
 ROTK School is a web-based game that allows players to explore an extensive storyline through an interactive UI. It combines engaging narrative elements with a user-friendly interface, providing a unique gaming experience. 
 
